@@ -10,8 +10,9 @@ services:
     ports:
     - 3306:3306
     volumes:
-    - /root/mysql/dbdata:/var/lib/mysql/
-    - /root/mysql/my.cnf:/etc/mysql/my.cnf
+    - ./mysql/dbdata:/var/lib/mysql/
+    - ./mysql/my.cnf:/etc/mysql/my.cnf
+    - ./init_db:/docker-entrypoint-initdb.d
   adminer:
     image: adminer
     restart: always
