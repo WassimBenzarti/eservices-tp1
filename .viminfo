@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1603187687,,"wq"
+|2,0,1603187989,,"wq"
 :set paste
 |2,0,1603185462,,"set paste"
 
@@ -27,22 +27,82 @@
 # Registers:
 
 # File marks:
-'0  1  51  ~/ngrok_serve
-|4,48,1,51,1603187687,"~/ngrok_serve"
-'1  1  12  ~/.gitignore
-|4,49,1,12,1603185534,"~/.gitignore"
-'2  6  21  ~/mysql/my.cnf
-|4,50,6,21,1603185509,"~/mysql/my.cnf"
-'3  19  14  ~/docker-compose.yml
-|4,51,19,14,1603185468,"~/docker-compose.yml"
+'0  24  21  ~/init_db.sql
+|4,48,24,21,1603187989,"~/init_db.sql"
+'1  1  20  ~/ngrok_serve.sh
+|4,49,1,20,1603187775,"~/ngrok_serve.sh"
+'2  1  0  ~/ngrok_serve.sh
+|4,50,1,0,1603187738,"~/ngrok_serve.sh"
+'3  1  51  ~/ngrok_serve
+|4,51,1,51,1603187687,"~/ngrok_serve"
+'4  1  12  ~/.gitignore
+|4,52,1,12,1603185534,"~/.gitignore"
+'5  6  21  ~/mysql/my.cnf
+|4,53,6,21,1603185509,"~/mysql/my.cnf"
+'6  19  14  ~/docker-compose.yml
+|4,54,19,14,1603185468,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  24  21  ~/init_db.sql
+|4,39,24,21,1603187989,"~/init_db.sql"
+-'  1  0  ~/init_db.sql
+|4,39,1,0,1603187983,"~/init_db.sql"
+-'  1  20  ~/ngrok_serve.sh
+|4,39,1,20,1603187775,"~/ngrok_serve.sh"
+-'  1  20  ~/ngrok_serve.sh
+|4,39,1,20,1603187775,"~/ngrok_serve.sh"
+-'  1  0  ~/ngrok_serve.sh
+|4,39,1,0,1603187738,"~/ngrok_serve.sh"
+-'  1  0  ~/ngrok_serve.sh
+|4,39,1,0,1603187738,"~/ngrok_serve.sh"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
+-'  1  51  ~/ngrok_serve
+|4,39,1,51,1603187687,"~/ngrok_serve"
 -'  1  51  ~/ngrok_serve
 |4,39,1,51,1603187687,"~/ngrok_serve"
 -'  1  12  ~/.gitignore
 |4,39,1,12,1603185534,"~/.gitignore"
 -'  1  12  ~/.gitignore
 |4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1603185534,"~/.gitignore"
 -'  6  21  ~/mysql/my.cnf
 |4,39,6,21,1603185509,"~/mysql/my.cnf"
 -'  6  21  ~/mysql/my.cnf
@@ -51,6 +111,118 @@
 |4,39,6,21,1603185509,"~/mysql/my.cnf"
 -'  6  21  ~/mysql/my.cnf
 |4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  6  21  ~/mysql/my.cnf
+|4,39,6,21,1603185509,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
+-'  1  0  ~/mysql/my.cnf
+|4,39,1,0,1603185492,"~/mysql/my.cnf"
 -'  1  0  ~/mysql/my.cnf
 |4,39,1,0,1603185492,"~/mysql/my.cnf"
 -'  1  0  ~/mysql/my.cnf
@@ -71,28 +243,22 @@
 |4,39,19,14,1603185468,"~/docker-compose.yml"
 -'  19  14  ~/docker-compose.yml
 |4,39,19,14,1603185468,"~/docker-compose.yml"
--'  19  14  ~/docker-compose.yml
-|4,39,19,14,1603185468,"~/docker-compose.yml"
--'  19  14  ~/docker-compose.yml
-|4,39,19,14,1603185468,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
--'  1  98  ~/docker-compose.yml
-|4,39,1,98,1603185457,"~/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/init_db.sql
+	*	1603187988	0
+	"	24	21
+	^	24	22
+	.	24	21
+	+	24	21
+
+> ~/ngrok_serve.sh
+	*	1603187774	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
 
 > ~/ngrok_serve
 	*	1603187686	0
