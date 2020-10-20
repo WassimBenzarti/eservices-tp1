@@ -1,8 +1,3 @@
--- Adminer 4.7.7 MySQL dump
-DROP DATABASE eservices-tp1;
-CREATE DATABASE eservices-tp1;
-USE eservices-tp1;
-
 SET NAMES utf8;
 SET time_zone = '+00:00';
 SET foreign_key_checks = 0;
@@ -23,5 +18,3 @@ INSERT INTO `user` (`id`, `firstname`, `lastname`) VALUES
 (2,	'Souad',	'Mezghenni'),
 (3,	'Mourad',	'Lahwel'),
 (4,	'Monia',	'Landolsi');
-
--- 2020-10-20 09:59:23
