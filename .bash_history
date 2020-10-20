@@ -106,3 +106,5 @@ git push origin main
 git push origin main
 clear
 docker-compose up -d
+ls
+bash ngrok_serve.sh 
