@@ -1,4 +1,7 @@
 -- Adminer 4.7.7 MySQL dump
+DROP DATABASE eservices-tp1;
+CREATE DATABASE eservices-tp1;
+USE eservices-tp1;
 
 SET NAMES utf8;
 SET time_zone = '+00:00';
